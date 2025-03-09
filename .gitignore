@@ -8,3 +8,6 @@
 
 # ignore checkpoints from jupyter notebook
 .ipynb_/checkpoints
+
+# ignore pickle
+*.pkl
